@@ -1,0 +1,18 @@
+Titre : mon_projet.txt
+Auteur : Robin Marques
+Date de creation : jeu. 09 janv. 2025 13:54:58 CET
+Date de Maj : jeu. 09 janv. 2025 13:54:58 CET
+Note : 
+
+
+# --------------------------------------
+# MAIN
+# --------------------------------------
+
+Oui, je fais des testes.
+
+# --------------------------------------
+# NOTE
+# --------------------------------------
+
+
